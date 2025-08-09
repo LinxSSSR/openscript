@@ -1,0 +1,11 @@
+# NAME: DeepL
+# 域名关键字匹配
+DOMAIN-KEYWORD,DeepL
+# 域名后缀匹配
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,deepl.net
+DOMAIN-SUFFIX,static.deepl.com
+DOMAIN-SUFFIX,api.deepl.com
+DOMAIN-SUFFIX,static.deepl.net
+DOMAIN-SUFFIX,deepl.translate.goog
+DOMAIN-SUFFIX,translate.googleapis.com
